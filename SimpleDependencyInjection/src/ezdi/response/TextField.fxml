@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.control.TextField?>
+
+<StackPane xmlns:fx="http://javafx.com/fxml/1" fx:controller="ezdi.response.TextFieldController" >
+	<TextField fx:id="display" />
+</StackPane>
+
